@@ -1,0 +1,7 @@
+<application>
+  <component name="org.intellij.sdk.settings.AppSettingsState">
+    <option name="javaFxPath" value="C:\Users\diogo\OneDrive - Universidade da Beira Interior\IHC\javafx-sdk-11.0.2\lib" />
+    <option name="detectNonFxml" value="true" />
+    <option name="fixBrokenSdk" value="true" />
+  </component>
+</application>
