@@ -25,7 +25,12 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
-  <action id="CommentByLineComment" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl dead_tilde" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl dead_tilde" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
